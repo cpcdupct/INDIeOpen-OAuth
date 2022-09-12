@@ -1,5 +1,5 @@
 # INDIeOpen-OAuth
-## INDIeOpen OAth
+## INDIeOpen Architecture
 
 <img src="architecture-oauth.jpg">
 
